@@ -1,3 +1,4 @@
 <?php
-echo $_ENV["DB_PASSWORD"]
+echo "password test"
+echo $_ENV["DB_PASSWORD"];
 ?>

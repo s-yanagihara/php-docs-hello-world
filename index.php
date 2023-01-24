@@ -1,3 +1,3 @@
 <?php
-
-echo "Hello World!";
+echo $_ENV["DB_PASSWORD"]
+?>
